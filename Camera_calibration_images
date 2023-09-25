@@ -3,7 +3,7 @@ import cv2 as cv
 import os
 import time
 
-CHESS_BOARD_DIM = (9, 6)
+CHESS_BOARD_DIM = (9, 6) #Change according to your chessboard dimension.
 
 n = 0  
 
